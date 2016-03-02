@@ -1,1 +1,1 @@
-{"name":"Scrollwatch","tagline":"基础组件-滚动加载","body":"基础组件-滚动加载\r\n\r\n# 业务场景支持\r\n## 一、滚动到底部时加载\r\n## 二、指定元素滚动到可视区域时加载\r\n## 三、listView 弹性效果加载（暂不支持）\r\n\r\n","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
+{"name":"Scrollwatch","tagline":"基础组件-滚动加载","body":"# 业务场景支持\r\n## 一、滚动到底部时加载\r\n## 二、指定元素滚动到可视区域时加载\r\n## 三、listView 弹性效果加载（暂不支持）\r\n","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
